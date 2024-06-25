@@ -1,2 +1,6 @@
-# advitiya.py
-write a program to print yes when they attend for fest between 16,17,18
+n=int(input())
+if n==16 or n==17 or n==18:
+    print('ADVITIYA')
+else:
+    print('WAITING FOR ADVITIYA')
+  
